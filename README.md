@@ -1,4 +1,4 @@
-# SmS Inferno Bomber
+# SMS Inferno Bomber
 
 > SMS bombing tool for stress testing phone number security.  
 > **Use responsibly and only with explicit permission from recipients.**
